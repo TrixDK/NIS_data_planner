@@ -1,0 +1,252 @@
+{
+  "system_x_small": {
+    "category": "System X",
+    "name": "System X 3U 5000 IOPS",
+    "iops": 5000,
+    "units": 3,
+    "ports": 2,
+    "unlock_xp": 0,
+    "price": 400,
+    "eol_hours": 4
+  },
+  "system_x_large": {
+    "category": "System X",
+    "name": "System X 7U 12000 IOPS",
+    "iops": 12000,
+    "units": 7,
+    "ports": 2,
+    "unlock_xp": 2200,
+    "price": 1600,
+    "eol_hours": 4
+  },
+  "risc_small": {
+    "category": "RISC",
+    "name": "RISC 3U 5000 IOPS",
+    "iops": 5000,
+    "units": 3,
+    "ports": 2,
+    "unlock_xp": 100,
+    "price": 450,
+    "eol_hours": 5
+  },
+  "risc_large": {
+    "category": "RISC",
+    "name": "RISC 7U 12000 IOPS",
+    "iops": 12000,
+    "units": 7,
+    "ports": 2,
+    "unlock_xp": 3000,
+    "price": 1750,
+    "eol_hours": 5
+  },
+  "mainframe_small": {
+    "category": "Mainframe",
+    "name": "Mainframe 3U 5000 IOPS",
+    "iops": 5000,
+    "units": 3,
+    "ports": 2,
+    "unlock_xp": 480,
+    "price": 850,
+    "eol_hours": 7
+  },
+  "mainframe_large": {
+    "category": "Mainframe",
+    "name": "Mainframe 7U 12000 IOPS",
+    "iops": 12000,
+    "units": 7,
+    "ports": 2,
+    "unlock_xp": 6500,
+    "price": 2000,
+    "eol_hours": 7
+  },
+  "gpu_small": {
+    "category": "GPU",
+    "name": "GPU 3U 5000 IOPS",
+    "iops": 5000,
+    "units": 3,
+    "ports": 2,
+    "unlock_xp": 350,
+    "price": 550,
+    "eol_hours": 3
+  },
+  "gpu_large": {
+    "category": "GPU",
+    "name": "GPU 7U 12000 IOPS",
+    "iops": 12000,
+    "units": 7,
+    "ports": 2,
+    "unlock_xp": 5500,
+    "price": 2200,
+    "eol_hours": 3
+  },
+  "switch_rj45": {
+    "category": "Switch",
+    "name": "16 × 10Gbps RJ45",
+    "units": 1,
+    "downlink_ports": 16,
+    "uplink_gbps": 10,
+    "unlock_xp": 0,
+    "price": 250,
+    "eol_hours": 4
+  },
+  "switch_sfp4": {
+    "category": "Switch",
+    "name": "4 × SFP+/SFP28",
+    "units": 1,
+    "downlink_ports": 4,
+    "uplink_gbps": 25,
+    "unlock_xp": 400,
+    "price": 400,
+    "eol_hours": 4
+  },
+  "switch_qsfp32": {
+    "category": "Switch",
+    "name": "32 × QSFP+",
+    "units": 1,
+    "downlink_ports": 32,
+    "uplink_gbps": 40,
+    "unlock_xp": 2500,
+    "price": 3800,
+    "eol_hours": 4
+  },
+  "switch_combo": {
+    "category": "Switch",
+    "name": "4 × QSFP+ + 16 × SFP+/SFP28",
+    "units": 1,
+    "downlink_ports": 16,
+    "uplink_gbps": 40,
+    "unlock_xp": 2100,
+    "price": 3500,
+    "eol_hours": 4
+  },
+  "router": {
+    "category": "Router",
+    "name": "Router",
+    "units": 1,
+    "unlock_xp": 700,
+    "price": 12000,
+    "eol_hours": 6
+  },
+  "firewall": {
+    "category": "Firewall",
+    "name": "Firewall",
+    "units": 1,
+    "unlock_xp": 700,
+    "price": 12000,
+    "eol_hours": 6
+  },
+  "rack": {
+    "category": "Passiv",
+    "name": "Lanberg Rack Cabinet 19\" 47U/800×800",
+    "units": 47,
+    "unlock_xp": 0,
+    "price": 1250
+  },
+  "rack_custom": {
+    "category": "Passiv",
+    "name": "Lanberg Rack Cabinet 19\" Custom color",
+    "units": 47,
+    "unlock_xp": 800,
+    "price": 1250
+  },
+  "patch_rj45": {
+    "category": "Patchpanel",
+    "name": "Patch panel RJ45",
+    "units": 1,
+    "ports": 16,
+    "unlock_xp": 0,
+    "price": 250
+  },
+  "patch_combo": {
+    "category": "Patchpanel",
+    "name": "Patch panel Combo",
+    "units": 1,
+    "ports": 16,
+    "unlock_xp": 500,
+    "price": 450
+  },
+  "patch_fiber": {
+    "category": "Patchpanel",
+    "name": "Patch panel Fiber",
+    "units": 1,
+    "ports": 16,
+    "unlock_xp": 500,
+    "price": 450
+  },
+  "cable_cat6_blue": {
+    "category": "Kabel",
+    "name": "Cable copper CAT6E blue",
+    "unlock_xp": 0,
+    "price": 500
+  },
+  "cable_cat6_black": {
+    "category": "Kabel",
+    "name": "Cable copper CAT6E black",
+    "unlock_xp": 200,
+    "price": 500
+  },
+  "cable_cat6_gray": {
+    "category": "Kabel",
+    "name": "Cable copper CAT6E gray",
+    "unlock_xp": 200,
+    "price": 500
+  },
+  "cable_cat6_custom": {
+    "category": "Kabel",
+    "name": "Cable copper CAT6E custom color",
+    "unlock_xp": 800,
+    "price": 500
+  },
+  "cable_fiber_green": {
+    "category": "Kabel",
+    "name": "Cable fiber 1 lane green",
+    "unlock_xp": 500,
+    "price": 1000
+  },
+  "cable_fiber_custom": {
+    "category": "Kabel",
+    "name": "Cable fiber 1 lane Custom Color",
+    "unlock_xp": 800,
+    "price": 1000
+  },
+  "cable_qsfp_yellow": {
+    "category": "Kabel",
+    "name": "Cable fiber 4 lanes (QSFP) yellow",
+    "unlock_xp": 1500,
+    "price": 3000
+  },
+  "cable_qsfp_custom": {
+    "category": "Kabel",
+    "name": "Cable fiber 4 lanes (QSFP) Custom Color",
+    "unlock_xp": 2000,
+    "price": 3000
+  },
+  "module_sfp_rj45": {
+    "category": "SFP",
+    "name": "5× SFP+ Module RJ45 10Gbps",
+    "unlock_xp": 500,
+    "price": 250,
+    "speed_gbps": 10
+  },
+  "module_sfp_fiber": {
+    "category": "SFP",
+    "name": "5× SFP+ Module Fiber 10Gbps",
+    "unlock_xp": 700,
+    "price": 350,
+    "speed_gbps": 10
+  },
+  "module_sfp28": {
+    "category": "SFP",
+    "name": "5× SFP28 Module Fiber 25Gbps",
+    "unlock_xp": 1200,
+    "price": 900,
+    "speed_gbps": 25
+  },
+  "module_qsfp": {
+    "category": "SFP",
+    "name": "5× QSFP+ Module Fiber 40Gbps",
+    "unlock_xp": 2400,
+    "price": 1500,
+    "speed_gbps": 40
+  }
+}
